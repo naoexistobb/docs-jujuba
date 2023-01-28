@@ -4,10 +4,10 @@
 ## 1 - Importe ou Exporte um JSON
 ![image](https://user-images.githubusercontent.com/87986195/215232741-5ce82288-8e88-40fb-9a4f-6cf560610af5.png)
 
-## 2 - Abra o site para gerar uma embed
+## 2 - Abra o site para gerar uma embed (https://glitchii.github.io/embedbuilder/)
 ![image](https://user-images.githubusercontent.com/87986195/215232782-65bc1753-a03f-4b75-84e9-626138f0432c.png)
 
-## 3 - Copia o JSON da embed dentro do site (https://glitchii.github.io/embedbuilder/)
+## 3 - Copia o JSON da embed dentro do site 
 ![image](https://user-images.githubusercontent.com/87986195/215232962-e2cb997b-066d-4aa2-ae22-8593ed39f6b6.png)
 
 ## 4 - Cole dentro do modal que abriu ao vc usar o comando e logo em seguida confirme
