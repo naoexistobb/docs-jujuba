@@ -16,3 +16,8 @@
 ## 6 - Aperte no botão com o texto "On" e pronto, o sistema de boas-vindas foi ativado para o chat que você usou o comando!
 ![image](https://user-images.githubusercontent.com/87986195/215233054-a6817625-0996-4aca-aa43-9edce5586863.png)
 
+
+## Exemplos
+![image](https://user-images.githubusercontent.com/87986195/215233448-24559c75-77af-439f-bbd3-266def91c877.png)
+
+
