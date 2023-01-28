@@ -7,7 +7,7 @@
 ## 2 - Abra o site para gerar uma embed
 ![image](https://user-images.githubusercontent.com/87986195/215232782-65bc1753-a03f-4b75-84e9-626138f0432c.png)
 
-## 3 - Copia o JSON da embed dentro do site
+## 3 - Copia o JSON da embed dentro do site (https://glitchii.github.io/embedbuilder/)
 ![image](https://user-images.githubusercontent.com/87986195/215232962-e2cb997b-066d-4aa2-ae22-8593ed39f6b6.png)
 
 ## 4 - Cole dentro do modal que abriu ao vc usar o comando e logo em seguida confirme
